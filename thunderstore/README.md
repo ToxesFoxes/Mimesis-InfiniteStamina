@@ -84,7 +84,7 @@ This makes it easy to play with friends - only the person hosting needs the mod,
 
 ### Step 2: Install the Mod
 
-1. Download `InfiniteStamina.dll` from [Releases](../../releases)
+1. Download `InfiniteStamina.dll` from Thunderstore [Releases](https://thunderstore.io/c/mimesis/p/ToxesFoxes/InfiniteStamina/versions/) or [Github](https://github.com/ToxesFoxes/Mimesis-InfiniteStamina/releases)
 2. Copy `InfiniteStamina.dll` to your MIMESIS Mods folder:
    ```
    <MIMESIS_Install_Folder>/Mods/InfiniteStamina.dll
