@@ -97,7 +97,7 @@ Check if the mod loaded successfully:
 1. Navigate to `<MIMESIS_Install_Folder>/MelonLoader/Latest.log`
 2. Look for these lines:
    ```
-   InfiniteStamina Mod v1.0.0 - Initializing...
+   InfiniteStamina Mod v1.0.1 - Initializing...
    SUCCESS: All Harmony patches applied!
    Active patches:
      [1] GetCurrentStamina() - Prefix
@@ -177,7 +177,7 @@ When the host has the mod installed:
 Check `MelonLoader/Latest.log` for:
 
 ```
-InfiniteStamina Mod v1.0.0 - Initializing...
+InfiniteStamina Mod v1.0.1 - Initializing...
 SUCCESS: All Harmony patches applied!
 Active patches:
   [1] GetCurrentStamina() - Prefix
@@ -238,7 +238,7 @@ HarmonyLib.HarmonyException: Patching exception in method...
 
 **Check the HOST's log** for messages like:
 ```
-InfiniteStamina Mod v1.0.0 - Initializing...
+InfiniteStamina Mod v1.0.1 - Initializing...
 SUCCESS: All Harmony patches applied!
 ```
 If the host doesn't see this, the mod isn't loading correctly.
@@ -277,7 +277,12 @@ If the host doesn't see this, the mod isn't loading correctly.
 
 ## 📝 Changelog
 
-### Version 1.0.0 (Current) - Initial Release! �
+### Version 1.0.1 - Minor Update
+
+**Changes:**
+- Updated README.md links
+
+### Version 1.0.0 (Current) - Initial Release! 🎉
 
 **Features:**
 - **[PATCH 1]** `GetCurrentStamina()` - Always returns 10,000 stamina for all players

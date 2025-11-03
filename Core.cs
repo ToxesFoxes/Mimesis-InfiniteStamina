@@ -2,7 +2,7 @@
 using HarmonyLib;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(InfiniteStamina.Core), "InfiniteStamina", "1.0.0", "ToxesFoxes", null)]
+[assembly: MelonInfo(typeof(InfiniteStamina.Core), "InfiniteStamina", "1.0.1", "ToxesFoxes", null)]
 [assembly: MelonGame("ReLUGames", "MIMESIS")]
 
 namespace InfiniteStamina
